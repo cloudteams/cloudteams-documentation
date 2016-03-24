@@ -1,4 +1,4 @@
-Template
+Software Team Usage
 ========
 
 $project will solve your problem of where to start with documentation,
@@ -10,32 +10,29 @@ Look how easy it is to use:
     # Get your stuff done
     project.do_stuff()
 
-Features
+Create Account
 --------
 
-- Be awesome
-- Make things faster
+- Go to https://cloudteams.fit.fraunhofer.de/
+- Create develper account
 
-Installation
+View Projects
 ------------
 
-Install $project by running:
+Select project of interest and follow project:
 
-    install project
+    image here
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- With source code
+- with ...
 
 Support
 -------
 
 If you are having issues, please let us know.
-We have a mailing list located at: project@google-groups.com
+We have a mailing list located at: g.ledakis@gmail.com
 
-License
--------
 
-The project is licensed under the BSD license.
