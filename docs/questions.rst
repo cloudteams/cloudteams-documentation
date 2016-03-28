@@ -64,8 +64,7 @@ If such libraries are installed via ``setup.py``, you also will need to remove a
 
 Demo Login (deprecated)
 ----------------------------------------------
-
-If you'd prefer not to install the use a test user, you can provide these credentials by editing to the login page::
+.. Tip:: If you'd prefer not to install the use a test user, you can provide these credentials by editing to the login page::
 
     username = 'test'
     passwrod = 'test'
