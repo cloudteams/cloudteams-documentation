@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
-copyright = u'2014, Read the Docs'
+project = u'CloudTeams Pilot Documentation'
+copyright = u'2016, CloudTeams consortium'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -226,8 +226,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'readthedocstemplate', u'Read the Docs Template Documentation',
-     [u'Read the Docs'], 1)
+    ('index', 'readthedocstemplate', u'CloudTeams Pilot Documentation',
+     [u'CloudTeams Pilot Documentation'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -240,7 +240,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ReadtheDocsTemplate', u'Read the Docs Template Documentation',
+  ('index', 'ReadtheDocsTemplate', u'CloudTeams Pilot Documentation',
    u'Read the Docs', 'ReadtheDocsTemplate', 'One line description of project.',
    'Miscellaneous'),
 ]
