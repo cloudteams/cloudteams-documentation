@@ -1,4 +1,4 @@
-Software Team Usage
+CloudTeams Platform Usage
 ========
 
 $project will solve your problem of where to start with documentation,
