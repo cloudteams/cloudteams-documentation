@@ -15,7 +15,7 @@ Create Account -- **Currently Not Available **
 - Go to visit http://cloudteams.epu.ntua.gr:8008/
 - Create customer account
 
-Login to Customeres Platform  
+Login to Customers Platform  
 --------
 
 - Go to visit http://cloudteams.epu.ntua.gr:8008/

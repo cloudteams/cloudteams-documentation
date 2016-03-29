@@ -73,9 +73,9 @@ Monitor a Github repository
 - Synchonize Github account
 .. image:: assets/githubsync.png
 - Provide credentials to GitHub page
-.. image:: assets/gnu2.png
-- Review and accept requested permissions on GitHub
 .. image:: assets/githubauthentication.png
+- Review and accept requested permissions on GitHub
+.. image:: assets/githubpermissions.png
 - View GitHub info
 .. image:: assets/githubresults.png
 
