@@ -1,5 +1,5 @@
 ========
-Customers 
+Customers Platform Usage
 ========
 
 To use CloudTeams, you have to make an customer account::

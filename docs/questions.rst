@@ -69,56 +69,6 @@ Demo Login (deprecated)
     username = 'test'
     passwrod = 'test'
 
-
-
-Where do I need to put my docs for RTD to find it?
---------------------------------------------------
-
-Read the Docs will crawl your project looking for a ``conf.py``. Where it finds the ``conf.py``, it will run ``sphinx-build`` in that directory. So as long as you only have one set of sphinx documentation in your project, it should Just Work.
-
-
-Image scaling doesn't work in my documentation
------------------------------------------------
-
-Image scaling in docutils depends on PIL. PIL is installed in the system that RTD runs on. However, if you are using the virtualenv building option, you will likely need to include PIL in your requirements for your project.
-
-
-How do I support multiple languages of documentation?
------------------------------------------------------
-
-See the section on :ref:`Localization of Documentation`.
-
-Do I need to be whitelisted?
-----------------------------
-
-No. Whitelisting has been removed as a concept in Read the Docs. You should have access to all of the features already.
-
-
-Can I document a python package that is not at the root of my repository?
--------------------------------------------------------------------------
-
-Yes. The most convenient way to access a python package for example via
-`Sphinx's autoapi`_ in your documentation is to use the *Install your project
-inside a virtualenv using ``setup.py install``* option in the admin panel of
-your project. However this assumes that your ``setup.py`` is in the root of
-your repository.
-
-If you want to place your package in a different directory or have multiple
-python packages in the same project, then create a pip requirements file. You
-can specify the relative path to your package inside the file.
-For example you want to keep your python package in the ``src/python``
-directory, then create a ``requirements.readthedocs.txt`` file with the
-following contents::
-
-    src/python/
-
-Please note that the path must be relative to the file. So the example path
-above would work if the file is in the root of your repository. If you want to
-put the requirements in a file called ``requirements/readthedocs.txt``, the
-contents would look like::
-
-    ../python/
-
 After adding the file to your repository, go to the *Advanced Settings* in
 your project's admin panel and add the name of the file to the *Requirements
 file* field.

@@ -1,5 +1,5 @@
 ========
-Developers 
+Team Platform Usage 
 ========
 
 To use CloudTeams as a developer, you have to make an developer account::
@@ -27,20 +27,21 @@ Create a new Project
 ----------
 
 - create a project
-- 
+.. image:: gnu.png
 
 
 Create a campaign
 ----------
 
 - create a campaign
-
+.. image:: docs/gnu.png
 
 Monitor a Github repository
 ----------
 
 - Synchonize Github account
-- Select ...
+- create a campaign
+.. image:: assets/gnu2.png
 
 
 Monitor a project quality through SonarQube
