@@ -28,20 +28,20 @@ View Projects
 
 Select project of interest and follow project:
 
-.. image:: teamdashboardv1.png
+.. image:: assets/teamdashboardv1.png
 
 Create a new Project
 ----------
 
 - create a project
-.. image:: createprojectv1.png
+.. image:: assets/createprojectv1.png
 
 
 Manage the Project Software Team
 ----------
 
 - create a project
-.. image:: manageteam.png
+.. image:: assets/manageteam.png
 
 
 Communicate with the Software Team
@@ -50,21 +50,21 @@ Communicate with the Software Team
 - Open micro blogging page
 - Communicate with each member
 
-.. image:: microbloggingv1.png
+.. image:: assets/microbloggingv1.png
 
 
 Create a campaign
 ----------
 
 - create a campaign
-.. image:: campaign1.png
+.. image:: assets/campaign1.png
 
 
 Create a campaign
 ----------
 
 - create a questionnaire
-.. image:: createquestionnairev1.png
+.. image:: assets/createquestionnairev1.png
 
 
 Monitor a Github repository

@@ -20,7 +20,7 @@ Create Account
 Login to Persona Builder
 --------
 - Authenticate to Persona Builder
-.. image:: authenticatepersona.png
+.. image:: assets/authenticatepersona.png
 
 
 View Personas
@@ -28,14 +28,14 @@ View Personas
 
 Select project of interest and follow project:
 
-.. image:: personabuildermain.png
+.. image:: assets/personabuildermain.png
 
 Create a new Persona
 ----------
 
 - Select a project
 - Create a persona
-.. image:: specifypersona.png
+.. image:: assets/specifypersona.png
 
 
 Match Users to Persona
@@ -43,7 +43,7 @@ Match Users to Persona
 - Select a project
 - Select a persona
 - Find matching personas
-.. image:: personamatchingusers.png
+.. image:: assets/personamatchingusers.png
 
 
 
