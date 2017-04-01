@@ -4,22 +4,22 @@ Team Platform Usage
 
 To use CloudTeams as a developer, you have to make an developer account::
 
-	visit https://cloudteams.fit.fraunhofer.de/
+	visit https://teams.cloudteams.eu/
 
 .. note::
     Developer account is needed for the creation of new projects and the also the participation on the developement process of a project.
 
 
-Create an Account for Team Plaform  -- **Currently Not Available**
+Create an Account for Team Plaform  
 --------
 
-- Go to visit https://cloudteams.fit.fraunhofer.de/
+- Visit https://teams.cloudteams.eu/pub/bscw.cgi/?op=rmail&username=&passwd=&register=Register
 - Create develper account
 
 Login to Team Platform  
 --------
 
-- Go to visit https://cloudteams.fit.fraunhofer.de/
+- Visit https://teams.cloudteams.eu/
 .. image:: assets/logindev1.png
 - Login with your creadentials
 

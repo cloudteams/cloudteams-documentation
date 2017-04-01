@@ -4,7 +4,7 @@ Customers Platform Usage
 
 To use CloudTeams, you have to make an customer account::
 
-	visit http://cloudteams.epu.ntua.gr:8008/
+	visit https://customers.cloudteams.eu/
 
 .. note::
     Customer account is needed for following and participating to new projects.
@@ -12,13 +12,13 @@ To use CloudTeams, you have to make an customer account::
 Create Account -- **Currently Not Available **
 --------
 
-- Go to visit http://cloudteams.epu.ntua.gr:8008/
+- Go to visit https://customers.cloudteams.eu/
 - Create customer account
 
 Login to Customers Platform  
 --------
 
-- Go to visit http://cloudteams.epu.ntua.gr:8008/
+- Go to visit https://customers.cloudteams.eu/
 .. image:: assets/login1.png
 - Login with your creadentials
 
