@@ -1,38 +1,17 @@
 About CloudTeams
 ========
 
-$project will solve your problem of where to start with documentation,
-by providing a basic explanation of how to do it easily.
+ClousTeams is a platform that brings together the software development community and potential end users. CloudTeams aims to create a link between the creators of technology and the people who add meaning to it, the users.
 
-Look how easy it is to use:
-
-    import project
-    # Get your stuff done
-    project.do_stuff()
-
-Create Account
+Live Platform 
 --------
 
-- Go to https://cloudteams.fit.fraunhofer.de/
-- Create develper account
+- Go to https://cloudteams.eu
 
-View Projects
-------------
 
-Select project of interest and follow project:
+- This repository provides the content for the creation of the CloudTeams documentation in http://docs.euprojects.net/docs/cloudteams-documentation that is created dynamically using the "Read the Docs" platform
 
-    image here
 
-Contribute
-----------
-
-- With source code
-- with ...
-
-Support
--------
-
-If you are having issues, please let us know.
-We have a mailing list located at: g.ledakis@gmail.com
+If you are having issues, please let us know on : contact@cloudteams.eu
 
 
